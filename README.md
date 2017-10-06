@@ -10,7 +10,7 @@ When we display how much data our clients have moved the source is in bytes. 1 b
 
 #### What should I do?
 
-Please write a class that will take input of bytes, and convert it to the **nearest** largest "big size". In other words, it it words, if I give you 536870912000 - this works out to 500GB... but if I give you 1319413953331 - this works out to 1.2 TB.
+Please write a class that will take input of bytes, and convert it to the **nearest** largest "big size". In other words, if I give you 536870912000 - this works out to 500GB... but if I give you 1319413953331 - this works out to 1.2 TB.
 
 Here are a few examples:
 
